@@ -25,12 +25,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>&nbsp;
      
-  <br/>
-     
-  ## &nbsp;Blog&nbsp;
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://velog.io/@momentomori/TIL-0-t9mn46q8)
-     
   <br/>
      
   ## &nbsp;Link&nbsp;
