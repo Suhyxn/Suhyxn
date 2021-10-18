@@ -29,8 +29,7 @@
      
   ## &nbsp;Blog&nbsp;
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://github.com/eungyeole/velog-readme-stats)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert&tag=typescript)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=velopert)](https://velog.io/@momentomori/TIL-0-t9mn46q8)
      
   <br/>
      
